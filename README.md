@@ -10,11 +10,26 @@ Nós somos uma empresa de transformação digital e o nosso principal pilar é c
 
 ## Se liga na nossa agenda:
 
-👨🏾‍💻 **TECHSHOT:Regressão logística para análise de dados binários**
-- 27/07/2021 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech270721>
-
 👩🏾‍🎨 **Colagens manuais e a criação do absurdo**
 - 30/07/2021 às 18h (online)
 - Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-somos300721>
 
+☕️ **BATE-PAPO: Café de produto**
+- 11/08/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-bp110821>
+
+👨🏽‍💻 **TECHSHOT: Criando pipelines**
+- 19/08/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech190821>
+
+👨🏿‍💻 **TECHSHOT: Projetos de machine learning com foco na geração de valor**
+- 24/08/21 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito:<https://dti.ag/GIT-tech240821>
+
+👨🏿‍🏫👩🏿‍🏫 **TECHSHOT: Open cases: Pardini e Martins**
+- 26/08/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech260821>
+
+👨🏿‍💻 **TECHSHOT: Introdução a DDD**
+- 31/08/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech310821>
