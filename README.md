@@ -10,26 +10,22 @@ Nós somos uma empresa de transformação digital e o nosso principal pilar é c
 
 ## Se liga na nossa agenda:
 
-👩🏾‍🎨 **Colagens manuais e a criação do absurdo**
-- 30/07/2021 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-somos300721>
+**BATE-PAPO: Desigualdade de gênero e a mulher no mercado de trabalho**
+- 14/09/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/git-batepapo140921>
 
-☕️ **BATE-PAPO: Café de produto**
-- 11/08/2021 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-bp110821>
+**TECHSHOT: Visão de produto nos times ágeis**
+- 15/09/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/git-tech150921>
 
-👨🏽‍💻 **TECHSHOT: Criando pipelines**
-- 19/08/2021 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech190821>
+**TECHSHOT: Hipóteses  e experimentação**
+- 21/09/2021 às 18h30 (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/git-tech210921>
 
-👨🏿‍💻 **TECHSHOT: Projetos de machine learning com foco na geração de valor**
-- 24/08/21 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito:<https://dti.ag/GIT-tech240821>
+**TECHSHOT: Data mesh: repensando a arquitetura de dados**
+- 28/09/21 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito:<https://dti.ag/git-tech280921>
 
-👨🏿‍🏫👩🏿‍🏫 **TECHSHOT: Open cases: Pardini e Martins**
-- 26/08/2021 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech260821>
-
-👨🏿‍💻 **TECHSHOT: Introdução a DDD**
-- 31/08/2021 às 18h (online)
-- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/GIT-tech310821>
+**TECHSHOT: Iac: ARM Template 101**
+- 30/09/2021 às 18h (online)
+- Saiba mais e retire o seu ingresso gratuito: <https://dti.ag/git-tech300921>
